@@ -4,8 +4,8 @@
   </a>
 </h1>
 
-## 🔧 Tools & Technologies
-<code><img title="C" height="25" src="images/c.svg"></code>
+<!-- ## 🔧 Tools & Technologies
+<code><img title="C" height="25" src="images/c.svg"></code> -->
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/andrepaulino/andrepaulino">
