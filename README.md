@@ -58,7 +58,11 @@
 
 ## Estatísticas GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="32">
 
-![Snake animation](https://github.com/andrepaulino/andrepaulino/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/andrepaulino/andrepaulino/blob/output/github-contribution-grid-snake.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/andrepaulino/andrepaulino/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Snake game simulation using commits" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 <details>
 	<summary>⚡ Linguagens mais utilizadas</summary>
