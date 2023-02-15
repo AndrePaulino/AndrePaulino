@@ -10,16 +10,12 @@
 * 💓 Apaixonado por código limpo e sites responsivos.
 * 🌱 Aprofundando em JavaScript e React.
 * ⚡ Curiosidade: Em busca de um apartamento.
+* [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-### Vamos conectar
-
-<p align="center">
-  <a href="mailto:andrepaulinobtw@gmail.com?subject=Olá%20André%20Paulino"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/AndrePaulinobtw"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  </p>
+### 🔗 Vamos conectar!
+<a href="mailto:andrepaulinobtw@gmail.com?subject=Olá%20André%20Paulino"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/AndrePaulinobtw"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
 
 <br/>
 <hr/>
@@ -58,11 +54,7 @@
 
 ## Estatísticas GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="32">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/andrepaulino/andrepaulino/blob/output/github-contribution-grid-snake.svg?palette=github-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/andrepaulino/andrepaulino/blob/output/github-contribution-grid-snake.svg">
-  <img alt="Snake game simulation using commits" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+![Snake animation](https://github.com/andrepaulino/andrepaulino/blob/output/github-contribution-grid-snake.svg)
 
 <details>
 	<summary>⚡ Linguagens mais utilizadas</summary>
