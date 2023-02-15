@@ -70,3 +70,7 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=andrepaulino&show_icons=true&line_height=27&count_private=true&title_color=61d9fa&text_color=61d9fa&icon_color=61d9fa&bg_color=20232a" alt="André's GitHub Stats" />
 	</a>
 </details>
+
+<p align="center"><b>
+Se gostou 🌟 - Por André Paulino {🎧}
+</b></p>
