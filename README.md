@@ -17,9 +17,7 @@
 <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/AndrePaulinobtw"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
 
-<br/>
 <hr/>
-<br/>
 
 ## 🔧 Ferramentas e Tecnologias
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)&nbsp;&nbsp;
@@ -32,9 +30,7 @@
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)&nbsp;&nbsp;
 
-<br/>
 <hr/>
-<br/>
 
 ## 🗂️ Repositórios Destaque
 
@@ -42,15 +38,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrepaulino&repo=CS50x_2022&show_icons=true&line_height=27&title_color=61d9fa&text_color=61d9fa&icon_color=61d9fa&bg_color=20232a" alt="CS50x_2022" />
 </a>
 
-<br/>
-
 <a href="https://github.com/AndrePaulino/15_javascript_projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrepaulino&repo=15_javascript_projects&show_icons=true&line_height=27&title_color=61d9fa&text_color=61d9fa&icon_color=61d9fa&bg_color=20232a" alt="CS50x_2022" />
 </a>
 
-<br/>
 <hr/>
-<br/>
 
 ## Estatísticas GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="32">
 
