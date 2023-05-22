@@ -32,7 +32,7 @@
 
 <hr/>
 
-## 🗂️ Repositórios Destaque
+<!-- ## 🗂️ Repositórios Destaque
 
 <a href="https://github.com/AndrePaulino/CS50x_2022">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrepaulino&repo=CS50x_2022&show_icons=true&line_height=27&title_color=61d9fa&text_color=61d9fa&icon_color=61d9fa&bg_color=20232a" alt="CS50x_2022" />
@@ -42,7 +42,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrepaulino&repo=15_javascript_projects&show_icons=true&line_height=27&title_color=61d9fa&text_color=61d9fa&icon_color=61d9fa&bg_color=20232a" alt="CS50x_2022" />
 </a>
 
-<hr/>
+<hr/> -->
 
 ## Estatísticas GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="32">
 
@@ -70,6 +70,8 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=andrepaulino&show_icons=true&line_height=27&count_private=true&title_color=61d9fa&text_color=61d9fa&icon_color=61d9fa&bg_color=20232a" alt="André's GitHub Stats" />
 	</a>
 </details>
+
+<br>
 
 <p align="center"><b>
 Se gostou 🌟 - Por André Paulino {🎧}
