@@ -6,9 +6,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Sobre Mim
 
-* 👨🏽‍💻 Atualmente buscando vaga como Desenvolvedor Front End.
+* 👨🏽‍💻 Agente de Tecnologia no Banco do Brasil.
 * 💓 Apaixonado por código limpo e sites responsivos.
-* 🌱 Aprofundando em JavaScript e React.
+* 🌱 Aprofundando em Java e APIs.
 * ⚡ Curiosidade: Em busca de um apartamento.
 * [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
