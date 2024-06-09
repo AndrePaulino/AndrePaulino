@@ -15,35 +15,9 @@
 
 <a href="mailto:andrepaulinobtw@gmail.com?subject=Olá%20André%20Paulino"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/and-paulino/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/AndrePaulinobtw"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
 
 <hr/>
 
-## 🔧 Ferramentas e Tecnologias
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)&nbsp;&nbsp;
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)&nbsp;&nbsp;
-
-<hr/>
-
-<!-- ## 🗂️ Repositórios Destaque
-
-<a href="https://github.com/AndrePaulino/CS50x_2022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrepaulino&repo=CS50x_2022&show_icons=true&line_height=27&title_color=61d9fa&text_color=61d9fa&icon_color=61d9fa&bg_color=20232a" alt="CS50x_2022" />
-</a>
-
-<a href="https://github.com/AndrePaulino/15_javascript_projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrepaulino&repo=15_javascript_projects&show_icons=true&line_height=27&title_color=61d9fa&text_color=61d9fa&icon_color=61d9fa&bg_color=20232a" alt="CS50x_2022" />
-</a>
-
-<hr/> -->
 
 ## Estatísticas GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="32">
 
