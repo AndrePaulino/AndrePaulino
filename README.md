@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Sobre Mim
 
-* 👨🏽‍💻 Assessor no Banco do Brasil.
+* 👨🏽‍💻 Engenheiro de software no Banco do Brasil.
 * 💓 Apaixonado por backend.
 * 🌱 Especializando em Java e APIs.
 * [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
